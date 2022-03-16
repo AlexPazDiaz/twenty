@@ -67,3 +67,5 @@ do {
         }
     }
 } while (play == "y")
+
+// everything around you is a lie
